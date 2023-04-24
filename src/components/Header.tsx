@@ -19,8 +19,8 @@ const Header = () => {
         </Link>
         {/* tag line */}
         <p className="text-gray-500 text-md hidden xl:block mt-2">
-          "I tried drawing a perfect circle, but it ended up looking like a
-          potato, so i decided to let the AI for the artwork instead."
+          &quot;I tried drawing a perfect circle, but it ended up looking like a
+          potato, so i decided to let the AI for the artwork instead.&quot;
         </p>
 
         <Link className="btn" href="/share">
